@@ -1,0 +1,26 @@
+{
+    "name": "world-travel",
+    "title": "World Travel Journal Updates",
+    "description": "Adds discovered scene links to a shared travel journal using socketlib.",
+    "version": "1.0.0",
+    "authors": [
+      {
+        "name": "Steven VanLandingham",
+        "url": "https://famtickets.com",
+        "discord": "Surreal1481"
+      }
+    ],
+    "minimumCoreVersion": "12",
+    "compatibleCoreVersion": "13",
+    "scripts": ["WorldTravel.js"],
+    "esmodules": [],
+    "styles": [],
+    "socket": true,
+    "required": [
+          "socketlib"
+        ],
+    "manifest": "modules/world-travel/module.json",
+    "download": "",
+    "flags": {}
+  }
+  
