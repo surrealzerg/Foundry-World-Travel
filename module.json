@@ -19,8 +19,10 @@
     "required": [
           "socketlib"
         ],
-    "manifest": "modules/world-travel/module.json",
-    "download": "",
+    "url": "https://github.com/surrealzerg/Foundry-World-Travel",
+    "manifest": "https://raw.githubusercontent.com/surrealzerg/Foundry-World-Travel/main/module.json?nocache",
+    "download": "https://raw.githubusercontent.com/surrealzerg/Foundry-World-Travel/main/world-travel.zip",
+    "license": "MIT",
     "flags": {}
   }
   
